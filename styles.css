@@ -8,7 +8,8 @@
 body {
 	background: #EFEFEF;
 	color: #363639;
-    font-family: 'Work Sans', sans-serif;
+    	font-family: 'Work Sans', sans-serif;
+	background-attachment:fixed;
 }
 
 
@@ -108,4 +109,7 @@ body {
 	height:100%;
 	position:fixed;
 	z-index: 0;
+}
+div{ 
+	touch-action: none;
 }
