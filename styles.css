@@ -10,6 +10,7 @@ body {
 	color: #363639;
     	font-family: 'Work Sans', sans-serif;
 	background-position:center;
+	background-attachment: scroll;
 }
 
 
@@ -20,7 +21,7 @@ body {
 	background: #EFEFEF;
 
 	min-height: 100vh;
-	position: fixed;
+	position: relative;
 	top: 0;
 	left: 0;
 	right: 0;
